@@ -18,5 +18,5 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-If you find a vulnerability in any of those Operating Systems, please contact a developer via email or Direct Messages. Please include a Screenshot too of the Vulnerability, or a Screen
+If you find a vulnerability in any of those Operating Systems, please contact a developer via email or Direct Messages or by using the Feedback Assistant at /System/Library/CoreServices/Applications/Feedback Assistant.app. Please include a Screenshot too of the Vulnerability, or a Screen
 Recording of the vulnerability.
